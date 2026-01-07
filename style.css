@@ -130,7 +130,6 @@ nav {
     margin: 15px;
     padding: 15px;
     text-align: center;
-
     border: 2px solid black;
     background-color: gainsboro;
     box-shadow: 5px 5px 5px;
@@ -138,6 +137,9 @@ nav {
 
 }
 
+footer p , a {
+    background-color: gainsboro;
+}
 
 .mark img {
     height: 40px;
