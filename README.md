@@ -17,6 +17,15 @@ This project is created to practice frontend fundamentals such as HTML structure
 
 ---
 
+## ⭐ Project Highlights
+
+- 🔹 Focused on clean UI design  
+- 🔹 Practiced CSS Flexbox and layout styling  
+- 🔹 Improved understanding of HTML semantics  
+- 🔹 Great beginner-level frontend project  
+
+---
+
 ## 🛠️ Tech Stack
 
 - **HTML5**
