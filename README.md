@@ -24,6 +24,5 @@ This project is created to practice frontend fundamentals such as HTML structure
 
 ---
 
-## 📁 Project Structure
 
 
