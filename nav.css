@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+
+nav {
+    padding: 25px;
+    margin: 15px;
+    background-color: gainsboro;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 130px;
+    height: 60px;
+}
+
+.logo img {
+    width: 130px;
+    height: 60px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.nav ul {
+    background-color: gainsboro;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+
+.nav, .nav ul li {
+    background-color: gainsboro;
+    list-style: none;
+}
+
+.nav ul li a {
+    padding: 5px 10px 5px 10px;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    background-color: azure;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px 2px;
+}
